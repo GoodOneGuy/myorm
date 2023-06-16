@@ -1,0 +1,5 @@
+package myorm
+
+func Db() {
+
+}
